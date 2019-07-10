@@ -1,2 +1,2 @@
 # BlackJack
-The BlackJack Game with one player with a dealer
+The BlackJack Game with one player and a dealer
