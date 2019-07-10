@@ -1,2 +1,2 @@
-# Blackjack1
+# Blackjack
 The Blackjack Game with one player and a dealer
